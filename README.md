@@ -5,3 +5,5 @@ Simple Maven Project
 shiva's commit
 
 shiva's commit
+
+INITIAL COMMIT
